@@ -2,7 +2,7 @@ package school.mjc.stage0.loops.task2;
 
 public class PrimeNumbers {
     public void printPrimeNumbers(int printToInclusive) {
-          int primeCheckNumber, divisibleCount, printToInclusive;
+          int primeCheckNumber, divisibleCount;
           int n = 0;
           while (n <= printToInclusive) {
            divisibleCount = 0;
